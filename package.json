@@ -1,0 +1,27 @@
+{
+  "name": "@dashkite/module",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "genie test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashkite/module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/dashkite/module/issues"
+  },
+  "homepage": "https://github.com/dashkite/module#readme",
+  "devDependencies": {
+    "@dashkite/amen": "^0.1.2",
+    "@dashkite/assert": "^0.1.3",
+    "@dashkite/genie": "^0.5.2",
+    "@dashkite/genie-presets": "^0.2.5",
+    "@dashkite/joy": "^0.3.9",
+    "coffeescript": "^2.5.1"
+  }
+}

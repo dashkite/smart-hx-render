@@ -1,0 +1,6 @@
+presets:
+  coffeescript: ~
+  verify: ~
+  update: ~
+  release: ~
+  esm: ~
