@@ -1,13 +1,5 @@
-# Project Name
+# Smart HX Render
 
-*Short project description*
+*Render format for Smart HX*
 
-Longer description that contains a short code example
-
-## Features
-
-
-## Install
-
-
-## Reference
+This just a breadcrumb for now based on some proof-of-concept work in Nifty Zebra.
